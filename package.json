@@ -1,0 +1,33 @@
+{
+  "name": "demi-bot",
+  "version": "0.1.0",
+  "description": "A simple discord bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Mendo6472",
+  "license": "MIT",
+  "repository": "https://github.com/Mendo6472/demi-bot",
+  "bugs": {
+    "url": "https://github.com/Mendo6472/demi-bot/issues"
+  },
+  "homepage": "https://github.com/Mendo6472/demi-bot#readme",
+  "dependencies": {
+    "color-thief-node": "^1.0.4",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "google-img.js": "^1.0.2",
+    "googlethis": "^1.7.1",
+    "imageapi.js": "^1.7.0",
+    "justreddit": "^4.1.4",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^3.3.1",
+    "youtube-search": "^1.1.6"
+  }
+}
